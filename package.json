@@ -10,7 +10,7 @@
   "dependencies": {
     "expo": "~38.0.8",
     "expo-status-bar": "^1.0.2",
-    "iodash": "0.0.1-security",
+    "lodash": "^4.17.19",
     "logkitty": "^0.7.1",
     "react": "~16.11.0",
     "react-dom": "~16.11.0",
